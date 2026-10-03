@@ -3,7 +3,7 @@
 <!-- ========================================================================= -->
 <div align="center">
   <!-- Status Bar / Systems Initializing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&repeat=true&width=750&height=50&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED%3A+WELCOME+TO+MY+HUB;JARVIS+PROTOCOL+ONLINE;NEURAL+INTERFACE+CONNECTED" alt="System Initialization Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vcenter=true&repeat=true&width=750&height=50&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED%3A+WELCOME+TO+MY+HUB;JARVIS+PROTOCOL+ONLINE;NEURAL+INTERFACE+CONNECTED" alt="System Initialization Header" />
 
   <br />
 
