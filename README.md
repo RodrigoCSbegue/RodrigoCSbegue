@@ -1,16 +1,117 @@
-## Hi there 👋
+<!-- ========================================================================= -->
+<!--                             HEADER & BANNER                               -->
+<!-- ========================================================================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F0FF&center=true&vcenter=true&repeat=true&width=750&height=70&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED%3A+WELCOME+TO+MY+HUB;JARVIS+PROTOCOL+ONLINE;NEURAL+INTERFACE+CONNECTED" alt="System Initialization Header" />
 
-<!--
-**RodrigoCSbegue/RodrigoCSbegue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br />
 
-Here are some ideas to get you started:
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:00F0FF,100:FF0055&height=220&section=header&text=A_L_E_X%20%20D_E_V&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20ENGINEER%20%7C%20AI%20%26%20CYBER-SYSTEMS&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ========================================================================= -->
+<!--                             TYPING ANIMATION                              -->
+<!-- ========================================================================= -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=FF0055&center=true&vcenter=true&width=600&height=40&lines=⚡+Accelerating+code+at+maximum+RPM...;🤖+Building+intelligent+algorithms+%26+neural+networks;🛡️+Crafting+high-performance+scalable+architectures;🏎️+Driven+by+speed%2C+precision+and+clean+code" alt="Typing Subtitle" />
+  </a>
+</div>
+
+<br />
+
+<!-- ========================================================================= -->
+<!--                               SOBRE MIM                                   -->
+<!-- ========================================================================= -->
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="30"/> <code>// SYSTEM_OVERVIEW.LOG</code></h2>
+      <p>
+        Entusiasta de alta tecnologia, movido pela obsessão de otimização contínua. Combino o design de interfaces futuristas no estilo <b>JARVIS</b> com o desempenho, dinamismo e telemetria de alta performance inspirados no universo <b>Need for Speed</b>.
+      </p>
+      <ul>
+        <li>🧬 <b>Core Focus:</b> Arquiteturas distribuídas, Inteligência Artificial e sistemas de alta concorrência.</li>
+        <li>🚀 <b>Modo Atual:</b> Overclocking contínuo de habilidades em Engenharia de Software.</li>
+        <li>⚡ <b>Filosofia:</b> <i>"Se não está no limite, você não está indo rápido o suficiente."</i></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E0E6ED" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ========================================================================= -->
+<!--                         TECH STACK & FERRAMENTAS                          -->
+<!-- ========================================================================= -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="28"/> SYSTEM TECH STACK</h2>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <br />
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <br />
+  <!-- Infra & Databases -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
+
+<br />
+
+<!-- ========================================================================= -->
+<!--                            PROJETOS EM CARDS                              -->
+<!-- ========================================================================= -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> FEATURED PROJECTS</h2>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏎️ Project // NITRO-CORE</h3>
+      <p>Engine de busca e processamento de dados em milissegundos com telemetria em tempo real.</p>
+      <p><code>Node.js</code> • <code>Redis</code> • <code>WebSockets</code></p>
+      <a href="#"><b>📂 Ver Repositório »</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Project // JARVIS-HUD</h3>
+      <p>Interface futurista cyberpunk com reconhecimento de voz e rotinas automatizadas por IA.</p>
+      <p><code>React</code> • <code>Python</code> • <code>OpenAI API</code></p>
+      <a href="#"><b>📂 Ver Repositório »</b></a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ========================================================================= -->
+<!--                         OBJETIVOS NO TERMINAL                             -->
+<!-- ========================================================================= -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> CURRENT_MISSION.SH</h2>
+
+```bash
+#!/bin/bash
+# Status da Missão Atual
+
+location="Neo-City // Workspace"
+current_target="Mestrado em Agentes Autônomos & LLMs"
+status="98.4% RPM - TURBO BOOST ACTIVE"
+
+echo "[+] Executando rotina diária..."
+echo "[✓] Otimizar performance de APIs"
+echo "[✓] Estudar arquiteturas Event-Driven"
+echo "[⚙] Desenvolver ecossistema AI Jarvis OS"
