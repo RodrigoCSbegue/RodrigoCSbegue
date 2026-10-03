@@ -12,10 +12,6 @@
 
   <br /><br />
 
-  <!-- Subtitle Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=FF0055&center=true&vcenter=true&width=600&height=40&lines=%E2%9A%A1+Accelerating+code+at+maximum+RPM...;%F0%9F%A4%96+Building+intelligent+algorithms+%26+neural+networks;%F0%9F%9B%A1%EF%B8%8F+Crafting+high-performance+architectures;%F0%9F%8F%8E%EF%B8%8F+Driven+by+speed%2C+precision+and+clean+code" alt="Typing Subtitle" />
-  </a>
 </div>
 
 <!-- ========================================================================= -->
