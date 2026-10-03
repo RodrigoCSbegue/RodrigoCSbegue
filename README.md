@@ -6,7 +6,7 @@
 
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:00F0FF,100:FF0055&height=220&section=header&text=A_L_E_X%20%20D_E_V&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20ENGINEER%20%7C%20AI%20%26%20CYBER-SYSTEMS&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:00F0FF,100:FF0055&height=220&section=header&text=Rodrigo%20%20Sbegue&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20ENGINEER%20%7C%20AI%20%26%20CYBER-SYSTEMS&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
 </div>
 
 <!-- ========================================================================= -->
