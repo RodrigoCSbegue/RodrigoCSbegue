@@ -2,11 +2,20 @@
 <!--                             HEADER & BANNER                               -->
 <!-- ========================================================================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F0FF&center=true&vcenter=true&repeat=true&width=750&height=70&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED%3A+WELCOME+TO+MY+HUB;JARVIS+PROTOCOL+ONLINE;NEURAL+INTERFACE+CONNECTED" alt="System Initialization Header" />
+  <!-- Status Bar / Systems Initializing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&repeat=true&width=750&height=50&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED%3A+WELCOME+TO+MY+HUB;JARVIS+PROTOCOL+ONLINE;NEURAL+INTERFACE+CONNECTED" alt="System Initialization Header" />
 
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:00F0FF,100:FF0055&height=220&section=header&text=Rodrigo%20%20Sbegue&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20ENGINEER%20%7C%20AI%20%26%20CYBER-SYSTEMS&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
+  <!-- Main Banner Name Badge (Substituto estável do Capsule Render) -->
+  <img src="https://img.shields.io/badge/RODRIGO__CSBEGUE-FULL%20STACK%20%7C%20AI%20SYSTEMS-00F0FF?style=for-the-badge&labelColor=0D1117&color=FF0055" height="45" alt="Header Banner" />
+
+  <br /><br />
+
+  <!-- Subtitle Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=FF0055&center=true&vcenter=true&width=600&height=40&lines=%E2%9A%A1+Accelerating+code+at+maximum+RPM...;%F0%9F%A4%96+Building+intelligent+algorithms+%26+neural+networks;%F0%9F%9B%A1%EF%B8%8F+Crafting+high-performance+architectures;%F0%9F%8F%8E%EF%B8%8F+Driven+by+speed%2C+precision+and+clean+code" alt="Typing Subtitle" />
+  </a>
 </div>
 
 <!-- ========================================================================= -->
