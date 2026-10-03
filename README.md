@@ -41,8 +41,16 @@
         <li>⚡ <b>Filosofia:</b> <i>"Se não está no limite, você não está indo rápido o suficiente."</i></li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E0E6ED" width="100%" alt="Top Languages" />
+    <td width="40%" align="center" valign="middle">
+      <h3 align="center">⚙️ BACKEND ENGINE</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
