@@ -8,7 +8,7 @@
   <br />
 
   <!-- Main Banner Name Badge (Substituto estável do Capsule Render) -->
-  <img src="https://img.shields.io/badge/RODRIGO__CSBEGUE-FULL%20STACK%20%7C%20AI%20SYSTEMS-00F0FF?style=for-the-badge&labelColor=0D1117&color=FF0055" height="45" alt="Header Banner" />
+  <img src="https://img.shields.io/badge/RODRIGO__SBEGUE-FULL%20STACK%20%7C%20AI%20SYSTEMS-00F0FF?style=for-the-badge&labelColor=0D1117&color=FF0055" height="45" alt="Header Banner" />
 
   <br /><br />
 
